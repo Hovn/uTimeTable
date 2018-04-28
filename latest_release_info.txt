@@ -1,0 +1,5 @@
+version:310
+更换APP图标
+升级至SDK25
+增加Shortcut
+部分方法更新（更换SDK所致）
