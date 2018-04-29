@@ -1,4 +1,4 @@
-version:310
+3.1.0
 更换APP图标
 升级至SDK25
 增加Shortcut
